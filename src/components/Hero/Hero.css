@@ -1,0 +1,6 @@
+.hero {
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    padding: 90px;
+}
